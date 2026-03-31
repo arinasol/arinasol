@@ -3,19 +3,18 @@
 </div>  
   
 
-### <div align="center">Hi! I'm a Junior Backend Developer passionate about building modern web applications and learning new technologies</div>  
+### <div align="center">Hi! I'm a Junior Backend Developer (Java, Spring Boot)</div>  
   
 
-🎓 Graduated Software Developer at Haaga-Helia University  
-  
+🎓 Software Development graduate from Haaga-Helia University of Applied Sciences
 
-🚀 I enjoy developing full-stack applications, working with APIs, and exploring AI-powered solutions  
-  
+💻 I build REST APIs, work with databases, and integrate external services. I have experience with Java, Spring Boot, SQL, and working with backend systems.
 
-🌱 I build REST APIs, work with databases, and integrate external services. Currently focused on getting my first Software Developer role.  
-  
+🚀 I have developed full-stack applications, but my main focus is backend development and building reliable APIs.
 
-🌍 Languages: English, Finnish, Russian  
+🌱 Currently focused on getting my first Software Developer role and improving my backend skills.
+
+🌍 Languages: English, Finnish, Russian
   
 
 <br/>  
