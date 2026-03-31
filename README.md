@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi! I'm a Full Stack Developer passionate about building modern web applications and learning new technologies</div>  
+### <div align="center">Hi! I'm a Junior Backend Developer passionate about building modern web applications and learning new technologies</div>  
   
 
 🎓 Graduated Software Developer at Haaga-Helia University  
@@ -12,7 +12,7 @@
 🚀 I enjoy developing full-stack applications, working with APIs, and exploring AI-powered solutions  
   
 
-🌱 Currently strengthening my skills in full-stack development, software architecture, and testing while preparing for my first Software Developer role  
+🌱 I build REST APIs, work with databases, and integrate external services. Currently focused on getting my first Software Developer role.  
   
 
 🌍 Languages: English, Finnish, Russian  
